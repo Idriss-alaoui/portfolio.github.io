@@ -16,7 +16,7 @@
   "interests": [
     { "name": "climate change" },
     { "name": "sustainability" },
-    { "name": "computational fludi dynamics" },
+    { "name": "computational fluid dynamics" },
     { "name": "Robotics" },
     { "name": "3D Graphics" }
   ],
@@ -27,26 +27,32 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "National school of hydraulic",
+      "institution": "National school of hydraulic, Toulouse, France",
       "area": "mechanics and hydraulic engineering",
       
       "startDate": "2026-09-01",
       "endDate": "2029-10-01",
-      "courses": [maths, fluid dynamics, thermodynamics, career for management, linear elasticity 
+      "courses": [maths, fluid dynamics, thermodynamics, career for management, linear elasticity, continuum mechanics
       ]
     }, 
-    {"institution" : "undergraduate courses ro prepare nationwide competitive exams in sciences",
+    {"institution" : "undergraduate courses ro prepare nationwide competitive exams in sciences, Lyon, France",
       "area" : "physics, chemistry and maths", 
      
       "startDate" : "2024-09-01 ", 
       "endDate" : "2026-07-30", 
       "courses" : [maths, physics, chemistry, philosophy and litterature, and programmation]
-
+    },
+    {"institution" : "international french high school, Rabat, Morroco",
+      "area" : "physics, chemistry and maths", 
+     
+      "startDate" : "2022 ", 
+      "endDate" : "2024", 
+      "courses" : "high school diploma with highest honors"
     }
   ],
  
