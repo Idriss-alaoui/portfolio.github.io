@@ -23,89 +23,70 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML" ]
+      "keywords": [ "C", "C++", "balistik", "Javascript", "Python", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
+      "institution": "National school of hydraulic",
+      "area": "mechanics and hydraulic engineering",
+      
+      "startDate": "2026-09-01",
+      "endDate": "2029-10-01",
+      "courses": [maths, fluid dynamics, thermodynamics, career for management, linear elasticity 
       ]
+    }, 
+    {"institution" : "undergraduate courses ro prepare nationwide competitive exams in sciences",
+      "area" : "physics, chemistry and maths", 
+     
+      "startDate" : "2024-09-01 ", 
+      "endDate" : "2026-07-30", 
+      "courses" : [maths, physics, chemistry, philosophy and litterature, and programmation]
+
     }
   ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
+ 
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "International college of Andre Malraux, Rabat, Morroco",
+      
+      "position": "ecological actions",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "lead high schools to pursue ecological actions within the school in order to get the E3D (école en démarche de développement durable) label ",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "sustainable developpement approach E3D label of schools",
+        
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Math&Maroc",
+      "website": "https://mathmaroc.org",
+      "position": "Participant",
+      "startDate": "2024-05-03",
+      "endDate": "2024-05-05",
+      "summary": " morrocan tournament of young mathematicians",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "complex mathematical problems to resolve within 3 days"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "national math olympiads",
+      "date": "2023",
+      "awarder": "agency for French education abroad",
+      "summary": "6 hours session trying to resolve complex problems about combinatorics and analysis"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "first place at French National Union of School Sports's basketball tournament ",
+      "date": "2023",
+      "awarder": "National Union of School Sports (UNSS)",
+      "summary": "My team won first place in 2023 in a basketball competition that took place in Casablanca, Morocco"
     }
   ],
   "references": [
