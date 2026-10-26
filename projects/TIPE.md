@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/convection_cells.png
 title: "Experimental study of instabilities in turbulent Rayleigh Benard Convection "
 date: 2026-06
 published: true
