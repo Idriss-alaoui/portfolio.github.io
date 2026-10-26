@@ -58,7 +58,7 @@
  
   "volunteer": [
     {
-      "organization": "International college of Andre Malraux, Rabat, Morroco",
+      "organization": "International high school of Andre Malraux, Rabat, Morroco",
       
       "position": "ecological actions",
       "startDate": "2022",
@@ -79,6 +79,16 @@
       "highlights": [
         "complex mathematical problems to resolve within 3 days"
       ]
+       },
+    {
+      "organization": "International high school of Andre Malraux, Rabat, Morroco",
+     
+      "position": "representative of the swedish delegation",
+      "startDate": "2024-04-18",
+      "endDate": "2024-04-20",
+      "summary": " United Nations simulation-model where the theme addressed was: 'Global Resilience: Coming Together for Sustainable Solutions'
+      "highlights": [
+        "incredible 3 days where all Morroco french schools where gathered to take par to this event" ; "opportunity to understand country's politics in matter of sustainable solutions"
     }
   ],
   "awards": [
