@@ -46,7 +46,7 @@ lang: fr
       </div>
       <div class="col-lg-9">
         <p class="m-0">
-          {% for entry in bio.interests %}
+          {% for entry in bio["centres d'intérêt"] %}
             {{ entry.name }}
             {% if forloop.last != true %}, {% endif %}
           {% endfor %}
@@ -54,13 +54,13 @@ lang: fr
       </div>
     </div>
 
-    {% if bio.skills %}
+    {% if bio["compétences"] %}
     <div class="row pt-4 align-items-center">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Compétences</h1>
       </div>
       <div class="col-lg-9">
-        {% for entry in bio.skills %}
+        {% for entry in bio["compétences"] %}
           <p class="m-0">
             <b>{{ entry.name }}:</b>
             {% for keyword in entry.keywords %}
@@ -72,13 +72,13 @@ lang: fr
     </div>
     {% endif %}
 
-    {% if bio.education %}
+    {% if bio["éducation"] %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Formation</h1>
       </div>
       <div class="col-lg-9">
-        {% for entry in bio.education %}
+        {% for entry in bio["éducation"] %}
           <div class="row mb-3">
             <div class="col-9">
               <p class="m-0"><b>{{ entry.institution }}</b></p>
@@ -114,13 +114,13 @@ lang: fr
     </div>
     {% endif %}
 
-    {% if bio.volunteer %}
+    {% if bio["activités"] %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Activités</h1>
       </div>
       <div class="col-lg-9">
-        {% for entry in bio.volunteer %}
+        {% for entry in bio["activités"] %}
         <div class="row mb-3">
           <div class="col-9">
             <p class="mb-0"><b>{{ entry.position }}{% if entry.organization %}, {{ entry.organization }}{% endif %}</b></p>
@@ -157,14 +157,14 @@ lang: fr
     </div>
     {% endif %}
 
-    {% if bio.awards %}
+    {% if bio["récompenses"] %}
     <div class="row pt-4 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Récompenses</h1>
       </div>
 
       <div class="col-lg-9">
-      {% for entry in bio.awards %}
+      {% for entry in bio["récompenses"] %}
         <div class="row mb-3">
           <div class="col-9">
             <p class="mb-0">
