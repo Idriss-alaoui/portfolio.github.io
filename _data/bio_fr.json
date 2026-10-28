@@ -73,5 +73,66 @@
     "Philosophie et littérature",
     "Programmation"
   ]
-} ]
+} ],
+  ,
+    {
+      "institution": "Lycée français international André Malraux, Rabat, Maroc",
+      "area": "Physique, chimie et mathématiques",
+      "startDate": "2022",
+      "endDate": "2024",
+      "courses": ["Baccalauréat mention très bien avec très bien"]
+    }
+  ],
+  "Activités": [
+    {
+      "organization": "Lycée international André Malraux, Rabat, Maroc",
+      "position": "Actions écologiques",
+      "startDate": "2022",
+      "endDate": "2024",
+      "summary": "J’ai accompagné des lycéens dans des actions écologiques afin d’obtenir le label E3D (École en démarche de développement durable).",
+      "highlights": [
+        "Approche de développement durable et label E3D des écoles"
+      ]
+    },
+    {
+      "organization": "Math&Maroc",
+      "website": "https://mathmaroc.org",
+      "position": "Participant",
+      "startDate": "2024-05-03",
+      "endDate": "2024-05-05",
+      "summary": "Tournoi marocain des jeunes mathématiciens.",
+      "highlights": [
+        "Résolution de problèmes mathématiques complexes en 3 jours"
+      ]
+    },
+    {
+      "organization": "Lycée international André Malraux, Rabat, Maroc",
+      "position": "Représentant de la délégation suédoise",
+      "startDate": "2024-04-18",
+      "endDate": "2024-04-20",
+      "summary": "Simulation de l’ONU dont le thème était : Global Resilience: Coming Together for Sustainable Solutions.",
+      "highlights": [
+        "Trois jours passés à découvrir la politique nationale et les solutions durables"
+      ]
+    }
+  ],
+  "Récompenses": [
+    {
+      "title": "Olympiades nationales de mathématiques",
+      "date": "2023",
+      "awarder": "Agence pour l’éducation française à l’étranger",
+      "summary": "Session de six heures consacrée à la résolution de problèmes complexes en combinatoire et en analyse."
+    },
+    {
+      "title": "Première place au tournoi de basket de l’Union nationale du sport scolaire français",
+      "date": "2023",
+      "awarder": "Union nationale du sport scolaire (UNSS)",
+      "summary": "Mon équipe a remporté la première place lors d’une compétition de basket à Casablanca, Maroc."
+    }
+  ],
+  "references": [
+    {
+      "name": "Disponibles sur demande"
+    }
+  ]
 }
