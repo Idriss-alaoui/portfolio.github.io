@@ -1,0 +1,33 @@
+<div style="background-color: var(--bs-white)" class="bg-gradient py-3" id="interests-hobbies">
+  <div class="container">
+    <div class="row mb-3">
+      <div class="col-md-6">
+        <h1 class="display-4 text-start">Interests &amp; Hobbies</h1>
+      </div>
+    </div>
+
+    <div class="vstack gap-3">
+      {% assign interest_pages = site.pages | where: "type", "interests-hobbies" | sort: "date" | reverse %}
+      {% for page in interest_pages %}
+        {% unless page.draft %}
+          {% include engineering-course/engineering-course-card.html page=page %}
+        {% endunless %}
+        {% if forloop.index == include.limit %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    {% assign not_draft = 0 %}
+      {% for page in interest_pages %}
+      {% unless page.draft %}
+        {% assign not_draft = not_draft | plus: 1 %}
+      {% endunless %}
+    {% endfor %}
+
+    {% if not_draft > include.limit %}
+      <p class="text-center pt-4"><a href="{{ site.baseurl}}/interests-hobbies/">See all {{ not_draft }} interests &amp; hobbies entries</a></p>
+    {% endif %}
+
+  </div>
+</div>
