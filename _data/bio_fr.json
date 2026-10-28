@@ -27,7 +27,7 @@
       }
     ]
   },
-  "interests": [
+  "centres d'intérêt": [
     { "name": "changement climatique" },
     { "name": "développement durable" },
     { "name": "mécanique des fluides numérique" },
@@ -35,7 +35,7 @@
     { "name": "graphisme 3D" },
     { "name": "transition énergétique" }
   ],
-  "skills": [
+  "compétences": [
     {
       "name": "Languages de programmation",
       "keywords": ["C", "C++", "Balistique", "JavaScript", "Python", "HTML"]
@@ -45,7 +45,7 @@
       "keywords": ["Windows", "Ubuntu", "Git/GitHub"]
     }
   ],
-  "education": [
+  "éducation": [
     {
       "institution": "ENSEEIHT, Toulouse, France",
       "area": "Mécanique et ingénierie hydraulique",
@@ -81,7 +81,7 @@
       "courses": ["Baccalauréat mention très bien avec très bien"]
     }
   ],
-  "volunteer": [
+  "activités": [
     {
       "organization": "Lycée international André Malraux, Rabat, Maroc",
       "position": "Actions écologiques",
@@ -114,7 +114,7 @@
       ]
     }
   ],
-  "awards": [
+  "récompenses": [
     {
       "title": "Olympiades nationales de mathématiques",
       "date": "2023",
