@@ -61,20 +61,18 @@
       ]
     },
     {
-      
-  "institution": "Classes préparatoires aux grandes écoles d'ingéneieurs, Lyon, France",
-  "area": "Physique, Chimie et Mathématiques",
-  "startDate": "2024-09-01",
-  "endDate": "2026-07-30",
-  "courses": [
-    "Mathématiques",
-    "Physique",
-    "Chimie",
-    "Philosophie et littérature",
-    "Programmation"
-  ]
-} ],
-  ,
+      "institution": "Classes préparatoires aux grandes écoles d'ingéneieurs, Lyon, France",
+      "area": "Physique, Chimie et Mathématiques",
+      "startDate": "2024-09-01",
+      "endDate": "2026-07-30",
+      "courses": [
+        "Mathématiques",
+        "Physique",
+        "Chimie",
+        "Philosophie et littérature",
+        "Programmation"
+      ]
+    },
     {
       "institution": "Lycée français international André Malraux, Rabat, Maroc",
       "area": "Physique, chimie et mathématiques",
