@@ -35,7 +35,7 @@
     { "name": "graphisme 3D" },
     { "name": "transition énergétique" }
   ],
-  "compétences": [
+  "skills": [
     {
       "name": "Languages de programmation",
       "keywords": ["C", "C++", "Balistique", "JavaScript", "Python", "HTML"]
@@ -45,7 +45,7 @@
       "keywords": ["Windows", "Ubuntu", "Git/GitHub"]
     }
   ],
-  "éducation": [
+  "education": [
     {
       "institution": "ENSEEIHT, Toulouse, France",
       "area": "Mécanique et ingénierie hydraulique",
@@ -81,7 +81,7 @@
       "courses": ["Baccalauréat mention très bien avec très bien"]
     }
   ],
-  "Activités": [
+  "volunteer": [
     {
       "organization": "Lycée international André Malraux, Rabat, Maroc",
       "position": "Actions écologiques",
@@ -114,7 +114,7 @@
       ]
     }
   ],
-  "Récompenses": [
+  "awards": [
     {
       "title": "Olympiades nationales de mathématiques",
       "date": "2023",
