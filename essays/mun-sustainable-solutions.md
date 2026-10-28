@@ -9,8 +9,11 @@ labels:
   - Sustainability
   - Leadership
 ---
+<img width="300px" class="rounded float-start pe-4" src="./mun-sustainable-solutions/MUN.JPG">
+<img width="300px" class="rounded float-start pe-4" src="./mun-sustainable-solutions/MUN_2.JPG">
 
 ## Situation
+
 
 During a three-day Model United Nations simulation at Lycée André Malraux, I represented the Swedish delegation under the theme “Uniting for Sustainable Solutions.” The central issue we discussed was the social implications of artificial intelligence and automation in industry. In this international diplomatic setting, each delegation had to negotiate, defend its position, and propose realistic solutions that balanced technological progress with social responsibility. As the representative of Sweden, I had to approach the topic from a sustainability-focused perspective, emphasizing that innovation should not come at the expense of workers’ dignity, equality, or long-term societal resilience.
 
