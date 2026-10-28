@@ -9,8 +9,11 @@ labels:
   - Sustainability
   - Leadership
 ---
-<img width="300px" class="img-fluid" src="./mun-sustainable-solutions/MUN.JPG">
-<img width="300px" class="img-fluid" src="./mun-sustainable-solutions/MUN_2.JPG">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin: 1.5rem 0;">
+  <img src="./mun-sustainable-solutions/MUN.JPG" alt="MUN left" style="width: 30%; height: auto; border-radius: 8px;">
+  <img src="../img/logo_mun.png" alt="MUN center" style="width: 30%; height: auto; border-radius: 8px;">
+  <img src="./mun-sustainable-solutions/MUN_2.JPG" alt="MUN right" style="width: 30%; height: auto; border-radius: 8px;">
+</div>
 
 ## Situation
 
