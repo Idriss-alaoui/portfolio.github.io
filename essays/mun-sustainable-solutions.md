@@ -9,8 +9,8 @@ labels:
   - Sustainability
   - Leadership
 ---
-<img width="300px" class="rounded float-start pe-4" src="./mun-sustainable-solutions/MUN.JPG">
-<img width="300px" class="rounded float-start pe-4" src="./mun-sustainable-solutions/MUN_2.JPG">
+<img width="300px" class="img-fluid" src="./mun-sustainable-solutions/MUN.JPG">
+<img width="300px" class="img-fluid" src="./mun-sustainable-solutions/MUN_2.JPG">
 
 ## Situation
 
