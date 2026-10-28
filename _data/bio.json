@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Idriss Alaoui",
-    "picture" : "/assets/img/portfolio_profile.png",
+    "picture" : "{{ '/assets/img/portfolio_profile.png' | relative_url }}",
     "label": "Student engineer",
     "email": "iddrissalaoui@gmail.com",
     "phone": "06 16 34 81 90",
