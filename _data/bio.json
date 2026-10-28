@@ -24,7 +24,8 @@
     { "name": "sustainability" },
     { "name": "computational fluid dynamics" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "3D Graphics" },
+    {"name" : "energy transition" }
   ],
   "skills": [
     {
