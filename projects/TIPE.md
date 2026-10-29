@@ -13,5 +13,5 @@ labels:
 summary: "The work focuses on the mechanisms behind the apparition of convection parterns within silicon oil when the fluid is subjected to a temperature gradient"
 ---
 
-The objective was to experimentally observe the onset of Rayleigh-Benard convection in a horizontal layer of silicone oil and determine the corresponding critical Rayleigh number
+The objective was to experimentally observe the onset of Rayleigh-Benard convection in a horizontal layer of silicone oil and determine the corresponding critical Rayleigh number. Here you can find a pdf document that contains all the details you'll need to understand this project. 
 
