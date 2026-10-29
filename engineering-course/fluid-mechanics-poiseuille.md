@@ -5,7 +5,7 @@ title: "Poiseuille flow"
 date: 2026-10-29
 published: true
 summary: "A reformulated overview of an engineering training focused on fluid mechanics"
-image: "https://www.olivier-thual.fr/200630/res/1Hy_Poiseuille.png"
+image: "img/engineering-course/1Hy_Poiseuille.png"
 labels:
   - Engineering
   - Fluid Mechanics
@@ -13,15 +13,13 @@ labels:
   - Sustainability
 ---
 
-
 ## Introduction
-
-I am Idriss Alaoui, an engineering student at ENSEEIHT in Toulouse, and my academic interests lie at the intersection of fluid mechanics, energy, and the environment. What fascinates me most is how a simple experiment carried out on a laboratory bench can reveal fundamental physical laws and, even more importantly, how these laws are reflected in large-scale systems used in real life.
+My academic interests lie at the intersection of fluid mechanics, energy, and the environment. What fascinates me most is how a simple experiment carried out on a laboratory bench can reveal fundamental physical laws and, even more importantly, how these laws are reflected in large-scale systems used in real life.
 
 The image below shows a Poiseuille flow experiment: a tank filled with water feeds two tubes, and the flow rate is controlled by a valve. By observing the colored lines, we can distinguish different flow regimes. At low flow rate, the motion is regular and laminar; as the flow increases, the transition toward turbulence becomes visible. This simple visualization perfectly illustrates a key idea in fluid mechanics: the behavior of a fluid depends on its velocity, viscosity, the geometry of the system, and the pressure conditions.
 
 <div style="display: flex; justify-content: center; margin: 1.5rem 0;">
-  <img src="https://www.olivier-thual.fr/200630/res/1Hy_Poiseuille.png" alt="Poiseuille flow experiment" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/img/engineering-course/1Hy_Poiseuille.png" alt="Poiseuille flow experiment" style="max-width: 100%; border-radius: 8px;">
 </div>
 
 ## A fundamental experiment closely connected to real-world applications
