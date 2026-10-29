@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="display: flex; justify-content: center; margin: 1.5rem 0;">
-  <img src="../img/ecodelegues.jpeg" alt="E3D label initiative" style="width: 30%; height: auto; border-radius: 8px;">
+  <img src="../img/ecodelegues.jpeg" alt="E3D label initiative" style="width: 30%; height: 30%; border-radius: 8px;">
 </div>
 
 ## Situation
