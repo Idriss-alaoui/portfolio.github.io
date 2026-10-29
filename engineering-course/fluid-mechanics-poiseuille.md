@@ -19,7 +19,7 @@ My academic interests lie at the intersection of fluid mechanics, energy, and th
 The image below shows a Poiseuille flow experiment: a tank filled with water feeds two tubes, and the flow rate is controlled by a valve. By observing the colored lines, we can distinguish different flow regimes. At low flow rate, the motion is regular and laminar; as the flow increases, the transition toward turbulence becomes visible. This simple visualization perfectly illustrates a key idea in fluid mechanics: the behavior of a fluid depends on its velocity, viscosity, the geometry of the system, and the pressure conditions.
 
 <div style="display: flex; justify-content: center; margin: 1.5rem 0;">
-  <img src="{{ site.baseurl }}/img/engineering-course/1Hy_Poiseuille.png" alt="Poiseuille flow experiment" style="max-width: 100%; border-radius: 8px;">
+  <img src="{{ site.baseurl }}/img/engineering-course/1Hy_Poiseuille.png" alt="Poiseuille flow experiment" style="display: block; width: min(100%, 800px); max-width: 100%; height: auto; border-radius: 8px;">
 </div>
 
 ## A fundamental experiment closely connected to real-world applications
