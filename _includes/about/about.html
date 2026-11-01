@@ -12,8 +12,9 @@
         <div class="mt-4 mb-4" id="elevator-pitch">
           <h2 class="display-6 mb-3">Elevator Pitch</h2>
           <div class="ratio ratio-16x9">
-            <video controls preload="metadata" playsinline class="rounded shadow-sm w-100 h-100">
+            <video controls preload="metadata" playsinline class="rounded shadow-sm w-100 h-100" poster="{{ '/img/portfolio_profile.png' | relative_url }}">
               <source src="{{ 'elevator-pitch.mp4' | relative_url }}" type="video/mp4">
+              <source src="{{ 'elevator-pitch.webm' | relative_url }}" type="video/webm">
               Your browser does not support the video tag.
             </video>
           </div>
