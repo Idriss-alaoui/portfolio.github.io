@@ -9,6 +9,16 @@
         <p class="lead text-center">{{ site.data.bio.basics.label }}</p>
         <p class="lead">{{ site.data.bio.basics.summary }}</p>
         <hr class="my-4">
+        <div class="mt-4 mb-4" id="elevator-pitch">
+          <h2 class="display-6 mb-3">Elevator Pitch</h2>
+          <div class="ratio ratio-16x9">
+            <video controls preload="metadata" playsinline class="rounded shadow-sm w-100 h-100">
+              <source src="{{ '/WIN_20261101_11_37_33_Pro.mp4' | relative_url }}" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+        </div>
+        <hr class="my-4">
         <p class="lead m-0">
           Interests:
           {% for interest in site.data.bio.interests %}
